@@ -2,5 +2,5 @@ import sys
 import time
 import lib_book as lb
 
-print("Good day & hello Reenikka")
+print("Good day & hello World")
 lb.types("Electronics)
